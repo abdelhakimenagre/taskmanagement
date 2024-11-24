@@ -1,0 +1,29 @@
+.add{
+    display: flex;
+    width: 700px;
+    height: 500px;
+    flex-direction: column;
+    padding: 40px;
+    background-color: azure;
+    border: solid rgb(194, 194, 194) 1px;
+    border-radius: 5px;
+   
+}
+.container-add{
+    padding-top: 100px;
+    justify-content: center;
+    align-self: center;
+}
+.add input{
+    width: 300px;
+    border-radius: 5px;
+    height: 50px;
+    margin: 40px;
+}
+.add button{
+    width: 300px;
+    height: 40px;
+    background-color: chartreuse;
+    border-radius: 10px;
+
+}
